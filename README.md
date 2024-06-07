@@ -11,7 +11,7 @@ The tools used in this project are the following:
 - Power BI
 - RapidMiner Studio
 
- You can check out the report of the project [here](report.pdf). [BiReport](BiReport.pbix) is the Power Bi report file, [clean_data](clean_datapy.py) is the Python file used to clean the dataset and [queries_used](queries_used.sql) is an sql file containing the sql statements used throught the course of implementing this project. I also included the files for the Integration Services Project and the Multidimensional Project, as well as a backup file of the database [here](CarSales.bak).
+ You can check out the report of the project [here](report.pdf) and the PowerPoint presentation [here](Presentation.pptx). [BiReport](BiReport.pbix) is the Power Bi report file, [clean_data](clean_datapy.py) is the Python file used to clean the dataset and [queries_used](queries_used.sql) is an sql file containing the sql statements used throught the course of implementing this project. I also included the files for the Integration Services Project and the Multidimensional Project, as well as a backup file of the database [here](CarSales.bak).
 
 
 ## Project Instructions
