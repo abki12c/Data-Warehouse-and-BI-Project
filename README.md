@@ -1,5 +1,5 @@
 # About
-This is a project about creating a data warehouse, which will be used to create visualizations on Power Bi and create Data Mining Models.
+This is a project about creating a data warehouse, which is used to create visualizations on Power Bi and create Data Mining Models.
 
 The tools used in this project are the following:
 - Python
