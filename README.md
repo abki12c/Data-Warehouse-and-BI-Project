@@ -36,16 +36,17 @@ http://www.kdnuggets.com/datasets/index.html)
 
 
 
+
 ## Screenshots
 
 ### Star schema
 
-![star schema](assets/schema.png)
+![star schema](https://github.com/abki12c/Data-Warehouse-and-BI-Project/assets/58307243/b862c94c-1559-4104-b844-d5231f56104a)
 
 ### ETL process diagram
 
-![etl diagram](assets/etl.png)
+![etl diagram](https://github.com/abki12c/Data-Warehouse-and-BI-Project/assets/58307243/8de5170b-e937-4439-ac66-ff70a08e76f1)
 
 ### PowerBI visualization
 
-![PowerBI visualization](assets/powerbi.png)
+![PowerBI visualization](https://github.com/abki12c/Data-Warehouse-and-BI-Project/assets/58307243/4980c09c-e81d-415a-9d33-817854f48f5a)
