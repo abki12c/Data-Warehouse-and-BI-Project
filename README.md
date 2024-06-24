@@ -33,3 +33,19 @@ You will implement at least two models.
 To find the datasets, you can search the internet for relevant ones
 websites (e.g. https://www.kaggle.com/, http://archive.ics.uci.edu/ml/,
 http://www.kdnuggets.com/datasets/index.html)
+
+
+
+## Screenshots
+
+### Star schema
+
+![star schema](assets/schema.png)
+
+### ETL process diagram
+
+![etl diagram](assets/etl.png)
+
+### PowerBI visualization
+
+![PowerBI visualization](assets/powerbi.png)
